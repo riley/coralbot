@@ -1,0 +1,22 @@
+{
+  "name": "coralbot",
+  "version": "0.1.0",
+  "description": "get analytics directly through slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/riley/coralbot.git"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "riley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riley/coralbot/issues"
+  },
+  "homepage": "https://github.com/riley/coralbot#readme"
+}
